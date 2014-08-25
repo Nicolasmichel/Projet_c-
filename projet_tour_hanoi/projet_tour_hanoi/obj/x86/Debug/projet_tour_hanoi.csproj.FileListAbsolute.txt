@@ -1,0 +1,8 @@
+C:\Users\Nicolas\Documents\Projet_c-\projet_tour_hanoi\projet_tour_hanoi\bin\Debug\projet_tour_hanoi.exe
+C:\Users\Nicolas\Documents\Projet_c-\projet_tour_hanoi\projet_tour_hanoi\bin\Debug\projet_tour_hanoi.pdb
+C:\Users\Nicolas\Documents\Projet_c-\projet_tour_hanoi\projet_tour_hanoi\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Nicolas\Documents\Projet_c-\projet_tour_hanoi\projet_tour_hanoi\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Nicolas\Documents\Projet_c-\projet_tour_hanoi\projet_tour_hanoi\obj\x86\Debug\projet_tour_hanoi.csproj.GenerateResource.Cache
+C:\Users\Nicolas\Documents\Projet_c-\projet_tour_hanoi\projet_tour_hanoi\obj\x86\Debug\projet_tour_hanoi.exe
+C:\Users\Nicolas\Documents\Projet_c-\projet_tour_hanoi\projet_tour_hanoi\obj\x86\Debug\projet_tour_hanoi.pdb
+C:\Users\Nicolas\Documents\Projet_c-\projet_tour_hanoi\projet_tour_hanoi\obj\x86\Debug\projet_tour_hanoi.csprojResolveAssemblyReference.cache
